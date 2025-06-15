@@ -5,15 +5,17 @@
     "build": "next build",
     "start": "next start",
     "demoTest": "node demo.test.js",
-    "demoExternalTest": "node external.test.js"
+    "demoExternalTest": "node external.test.js",
+    "test": "jest tests/selenium.test.js"
   },
   "dependencies": {
+    "chromedriver": "^137.0.0",
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "selenium-webdriver": "^4.8.1"
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "chromedriver": "^110.0.0"
+    "jest": "^30.0.0",
+    "selenium-webdriver": "^4.33.0"
   }
 }
