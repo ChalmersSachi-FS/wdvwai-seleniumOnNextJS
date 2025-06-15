@@ -11,3 +11,6 @@ A recommended video from a past student: [Selenium Python Tutorial - How to inst
 
 Related to the updating of ChromeDriver and Chrome browser, this video may be helpful if you see the message:
 [Selenium fix: SessionNotCreated "this version only supports Chrome version"](https://www.youtube.com/watch?v=mAwL_0N1W9E)
+
+
+Had an issue at first with my code. but I fixed it. In my code I only have 2 tests that passed and 1 that has failed. Currently trying to figure out what is wrong within my code.
